@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 body {
+  margin: 0;
+}
+
+.section-1 {
   background-color: #1F2937;
   color: white;
   font-family: Roboto;
