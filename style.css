@@ -1,8 +1,72 @@
 body {
-    background-color: #1F2937;
-    color: white;
+  background-color: #1F2937;
+  color: white;
+}
+
+.section-1 {
+  padding: 0 160px;
 }
 
 a {
-    color: white;
+  color: white;
+  text-decoration: none; 
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  gap: 24px;
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.subtext {
+  font-size: 18px;
+  color: #E5E7EB;
+  margin-top: 10px;
+}
+
+button {
+  width: 120px;
+  height: 40px;
+  margin-top: 15px;
+  background-color: #007FFF;
+  border-radius: 10px;
+  color: #F9FAF8;
+  font-size: 15px;
+  font-weight: 900;
+  border-color: #007FFF;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header div {
+  font-size: 24px;
+  color: #F9FAF8;
+  font-weight: 700;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 0;
+  gap: 50px;
+}
+
+.main {
+  color: #F9FAF8;
+  font-size: 48px;
+}
+
+.image {
+  width: 1200px;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
