@@ -1,6 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 body {
   background-color: #1F2937;
   color: white;
+  font-family: Roboto;
 }
 
 .section-1 {
@@ -61,6 +64,7 @@ button {
 .main {
   color: #F9FAF8;
   font-size: 48px;
+  font-weight: bolder;
 }
 
 .image {
