@@ -7,11 +7,14 @@ body {
 
 .section-1 {
   padding: 10px 160px;
-  background-color: #1F2937;
+  background-image: url("./images/juskteez-vu.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
   color: white;
 }
 
-a {
+.section-1 a {
   color: rgb(214, 214, 214);
   text-decoration: none; 
 }
@@ -165,5 +168,5 @@ ul {
 }
 
 .footer div {
-  padding: 20px 0;
+  padding: 20px 0 10px;
 }
