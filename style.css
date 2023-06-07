@@ -47,6 +47,10 @@ ul {
   border-color: #007FFF;
 }
 
+.header img {
+  width: 200px;
+} 
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -72,8 +76,7 @@ ul {
 }
 
 .image {
-  width: 1200px;
-  background-color: grey;
+  width: 1000px;
   display: flex;
   justify-content: center;
   align-items: center;
