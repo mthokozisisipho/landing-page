@@ -31,7 +31,7 @@ ul {
 
 .text .subtext {
   font-size: 18px;
-  color: #E5E7EB;
+  color: white;
   margin-top: 10px;
 }
 
@@ -99,6 +99,7 @@ ul {
   display: flex;
   margin-top: 50px;
   gap: 30px;
+  height: 300px;
 }
 
 .info {
@@ -112,7 +113,6 @@ ul {
 .figure {
   height: 140px;
   width: 140px;
-  border: 2px solid #007FFF;
   justify-content: center;
   border-radius: 10px;;
 }
@@ -168,8 +168,24 @@ ul {
   background-color: #1F2937;
   color: #F9FAF8;
   text-align: center;
+  padding: 20px 0 10px;
 }
 
-.footer div {
-  padding: 20px 0 10px;
+.info img {
+  width: 140px;
+  height: 140px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+h6 {
+  margin: 10px 0 0 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+.figures a {
+  color: black;
 }
