@@ -32,7 +32,7 @@ ul {
   margin-top: 10px;
 }
 
-button {
+#btn1 {
   width: 120px;
   height: 40px;
   margin-top: 15px;
@@ -117,7 +117,7 @@ button {
 
 .section-3 {
   background-color: #E5E7EB;
-  padding: 100px 280px;
+  padding: 70px 280px;
 }
 
 .quote {
@@ -130,4 +130,30 @@ button {
   margin-top: 10px;
   font-weight: bolder;
   text-align: end;
+}
+
+.section-4 {
+  background-color: white;
+}
+
+.call {
+  display: flex;
+  justify-content: space-between;
+  background-color: #007FFF;
+  margin: 80px 160px;
+  color: #F9FAF8;
+  padding: 50px 100px;
+}
+
+.action .text {
+  font-weight: bolder;
+
+}
+
+#btn2 {
+  background-color: #007FFF;
+  color: #F9FAF8;
+  border: 2px solid #F9FAF8;
+  padding: 5px 24px;
+  border-radius: 10px;
 }
