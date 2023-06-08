@@ -3,6 +3,7 @@
 body {
   margin: 0;
   font-family: Roboto;
+  background-color: #A9DAE4;
 }
 
 .section-1 {
@@ -122,7 +123,7 @@ ul {
 }
 
 .section-3 {
-  background-color: #E5E7EB;
+  background-color: #8BC0D4;
   padding: 70px 280px;
 }
 
@@ -139,7 +140,7 @@ ul {
 }
 
 .section-4 {
-  background-color: white;
+  background-color: #A9DAE4;
 }
 
 .call {
